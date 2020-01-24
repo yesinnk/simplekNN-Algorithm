@@ -1,4 +1,4 @@
-# knninpython
+# kNNinpython
 
 Simple model of kNN built to practice and enrich understanding of the k-Nearest Neighbor algorithm from CSC311.
 
